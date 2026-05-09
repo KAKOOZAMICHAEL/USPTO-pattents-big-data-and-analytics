@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+sqlalchemy
+scikit-learn
+plotly
+networkx
+transformers
+torch
+tqdm
+scipy
+joblib
+matplotlib

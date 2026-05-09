@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Data files (Very Large)
+sample_data/
+extracted/
+outputs/
+*.csv
+*.tsv
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+!.streamlit/config.toml
+
+# IDEs
+.vscode/
+.idea/
+
+# Scratch
+scratch/
+pipeline_output.txt
